@@ -44,13 +44,13 @@ class Board
 
 };
 
-TEST(boardTests, newBoardIsNotWon) //first test to ensure result of the game
+TEST(boardTests, newBoardIsNotWon)
 {
     Board board;
     ASSERT_THAT(board.isWon(), testing::Eq(false) );
 }
 
-TEST(boardTests, newBoardIsDraw) //second test to ensure result of the game
+TEST(boardTests, newBoardIsDraw)
 {
     Board board;
     ASSERT_THAT(board.isDraw(), testing::Eq(false) );
