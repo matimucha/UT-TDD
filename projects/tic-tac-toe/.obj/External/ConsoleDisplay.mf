@@ -1,0 +1,3 @@
+ConsoleDisplay.o: External/ConsoleDisplay.cpp External/ConsoleDisplay.hpp \
+ External/Interfaces/Display.hpp External/Interfaces/Position.hpp \
+ External/StrongType.hpp External/Interfaces/Field.hpp

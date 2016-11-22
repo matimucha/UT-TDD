@@ -1,0 +1,2 @@
+PositionTestSuite.o: ExternalTestModules/Interfaces/PositionTestSuite.cpp \
+ External/Interfaces/Position.hpp External/StrongType.hpp
