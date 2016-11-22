@@ -11,3 +11,5 @@ ExternalTestModules/StrongTypeTestSuite.cpp
 Source/main.cpp
 TestModules/main.cpp
 rakefile.rb
+TestModules/playertests.cpp
+TestModules/boardtests.cpp

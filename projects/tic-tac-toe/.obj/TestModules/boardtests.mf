@@ -1,0 +1,3 @@
+boardtests.o: TestModules/boardtests.cpp \
+ TestModules/../External/Interfaces/Field.hpp \
+ TestModules/../External/Interfaces/Position.hpp External/StrongType.hpp
